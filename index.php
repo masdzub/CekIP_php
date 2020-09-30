@@ -12,17 +12,17 @@ require('function/getos.php');
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="IP checker">
+    <meta name="description" content="Cek Alamat IP">
     <meta name="author" content="~">
     <link rel="icon" href="css/favicon.png">
 
-    <title>IP Checker</title>
+    <title>Cek Alamat IP</title>
 
     <!-- Bootstrap core CSS -->
     <link href="//maxcdn.bootstrapcdn.com/bootswatch/3.2.0/cosmo/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="assets/css/style.css" rel="stylesheet">
 
   </head>
 
@@ -40,7 +40,7 @@ require('function/getos.php');
 
     <div class="footer">
       <div class="container">
-        <p class="text-muted">made with &hearts; by <a href="http://twitter.com/mas_dzub" target="_blank">@mas_dzub</a></p>
+        <p class="text-muted">made with &hearts; by <a href="http://masdzub.com" target="_blank">masdzub.com</a></p>
       </div>
     </div>
 
